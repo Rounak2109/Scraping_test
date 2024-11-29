@@ -24,7 +24,7 @@ Welcome to the Scraping Application! This is an initial draft of the application
 
 
 # Running the Application
-    To run the application, simply double-click the provided executable file (scraping_test.exe). The console application will launch, and you will be prompted to select two options either 1 or 2.
+    To run the application, after cloning the application locally, navigate to dist folder, simply double-click the provided executable file (scraping_test.exe). The console application will launch, and you will be prompted to select two options either 1 or 2.
     By pressing 1, the application will run and scrape different product names and prices and calculate the median and run *Test Cases* to check whether the calculated median is correct or not
 
 # Features
